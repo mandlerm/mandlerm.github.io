@@ -15,9 +15,8 @@ category: Rails & React
 [Click here to see a walkthrough](https://youtu.be/WSHHORh7a9w)
 
 
-[Tech Stack](https://github.com/mandlerm/BookTracker Repo)
-
- Rails, JQuery, JavaScript
+[GitHub Repo](https://github.com/mandlerm/BookTracker Repo)
+Tech Stack: Rails, JQuery, JavaScript
 
 Utilized Ruby on Rails as an API backend, enabling controllers to respond to requests with JSON.
 Implemented JQuery and JavaScript on the frontend to consume data from the API endpoints.

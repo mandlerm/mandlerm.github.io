@@ -15,9 +15,9 @@ category: Rails & React
 [Click here to see a walkthrough](https://youtu.be/Ce4MVb1boaU)
 
 
-[Tech Stack](https://github.com/mandlerm/plantpowerGitHub Repo)
+[GitHub Repo](https://github.com/mandlerm/plantpowerGitHub Repo)
 
- Ruby, Nokogiri
+Tech Stack: Ruby, Nokogiri
 
 
 First solo app
