@@ -8,12 +8,12 @@ walkthrough: https://youtu.be/O3sPgbYnhmw
 caption: Variation on Bingo to teach kids Spanish in a addictively fun way!
 techstack: Postgres, Rails, React, Redux
 modalID: modalSquares
-category: Design
+category: Rails & React
 ---
-*Variation on Bingo to teach kids Spanish in a addictively fun way!*
-(https://youtu.be/O3sPgbYnhmw See a walkthrough)
+###*Variation on Bingo to teach kids Spanish in a addictively fun way!*
+[Click here to see a walkthrough](https://youtu.be/O3sPgbYnhmw )
 
-(https://github.com/mandlerm/SpanishBingo/tree/min_game **Tech Stack**)
+[##**Tech Stack**](https://github.com/mandlerm/SpanishBingo/tree/min_game)
  Postgres, Rails, React, Redux
 
 Created a Rails API with a PostgreSQL database
