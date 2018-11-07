@@ -12,7 +12,7 @@ layout: page
 </ul>
 
 
-<!-- {% for post in site.posts %}
+{% for post in site.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
@@ -27,7 +27,7 @@ layout: page
     <p class="post-meta">Posted by {% if site.author %}{{ site.author }}{% else %}{{ site.github_username }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 <hr>
-{% endfor %} -->
+{% endfor %}
 
 <!-- Pager -->
 <!-- {% if paginator.total_pages > 1 %}
