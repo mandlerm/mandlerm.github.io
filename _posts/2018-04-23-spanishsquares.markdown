@@ -17,7 +17,7 @@ category: Rails & React
 
 [GitHub Repo](https://github.com/mandlerm/SpanishBingo/tree/min_game)
 
- Tech Stack: Postgres, Rails, React, Redux
+Tech Stack: Postgres, Rails, React, Redux
 
 
 Created a Rails API with a PostgreSQL database

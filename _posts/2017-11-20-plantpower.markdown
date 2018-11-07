@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "PlantPower"
+title:  "Plant Power"
 date:   2017-11-20 15:08:10 -0500
-img: img/portfolio/plantpower.png
+img: img/portfolio/plant.png
 github: https://github.com/mandlerm/plantpower
 walkthrough: https://youtu.be/Ce4MVb1boaU
 caption: An app that enables used to find Plant Based Recipes 
@@ -10,7 +10,7 @@ techstack: Postgres, Rails, React, Redux
 modalID: modalPlantPower
 category: Ruby, Nokogiri, Gem
 ---
-*An app that enables used to find Plant Based Recipes *
+*An app that enables used to find Plant Based Recipes*
 
 [Click here to see a walkthrough](https://youtu.be/Ce4MVb1boaU)
 

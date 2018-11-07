@@ -19,6 +19,7 @@ category: Ruby on Rails, JQuery, JavaScript, API
 
 Tech Stack: Rails, JQuery, JavaScript
 
+
 Utilized Ruby on Rails as an API backend, enabling controllers to respond to requests with JSON.
 Implemented JQuery and JavaScript on the frontend to consume data from the API endpoints.
 Integrated OAuth and Devise for authentication.
