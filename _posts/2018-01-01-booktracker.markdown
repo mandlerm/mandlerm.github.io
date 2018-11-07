@@ -7,7 +7,7 @@ github: https://github.com/mandlerm/BookTracker
 walkthrough: https://youtu.be/WSHHORh7a9w
 caption: An app that enables used to find Plant Based Recipes 
 techstack: Postgres, Rails, React, Redux
-modalID: modalSquares
+modalID: modalBookTracker
 category: Ruby on Rails, JQuery, JavaScript, API
 ---
 *For the book lover -- an app that tracks personal book library*
