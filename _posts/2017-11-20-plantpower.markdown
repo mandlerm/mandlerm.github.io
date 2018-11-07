@@ -21,6 +21,8 @@ Tech Stack: Ruby, Nokogiri
 
 
 First solo app
+
 Build a Ruby gem that provided a CLI interface
+
 Scraped McDougall recipe site with Nokogiri
 
