@@ -7,7 +7,7 @@ github: https://github.com/mandlerm/plantpower
 walkthrough: https://youtu.be/Ce4MVb1boaU
 caption: An app that enables used to find Plant Based Recipes 
 techstack: Postgres, Rails, React, Redux
-modalID: modalSquares
+modalID: modalPlantPower
 category: Ruby, Nokogiri, Gem
 ---
 *An app that enables used to find Plant Based Recipes *
