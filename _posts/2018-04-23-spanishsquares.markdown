@@ -2,7 +2,7 @@
 layout: post
 title:  "Spanish Squares"
 date:   2018-04-01 15:08:10 -0500
-img: img/portfolio/spanish.png
+img: img/portfolio/ssp.png
 github: https://github.com/mandlerm/SpanishBingo/tree/min_game
 walkthrough: https://youtu.be/O3sPgbYnhmw
 caption: Variation on Bingo to teach kids Spanish in a addictively fun way!
