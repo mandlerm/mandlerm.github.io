@@ -15,7 +15,7 @@ category: Ruby, Nokogiri, Gem
 [Click here to see a walkthrough](https://youtu.be/Ce4MVb1boaU)
 
 
-[GitHub Repo](https://github.com/mandlerm/plantpowerGitHub Repo)
+[GitHub Repo](https://github.com/mandlerm/plantpower)
 
 Tech Stack: Ruby, Nokogiri
 

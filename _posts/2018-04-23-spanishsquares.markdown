@@ -15,7 +15,7 @@ category: Rails & React
 [Click here to see a walkthrough](https://youtu.be/O3sPgbYnhmw)
 
 
-[GitHub Repo](https://github.com/mandlerm/SpanishBingo/tree/min_game GitHub Repo)
+[GitHub Repo](https://github.com/mandlerm/SpanishBingo/tree/min_game)
 
  Tech Stack: Postgres, Rails, React, Redux
 
