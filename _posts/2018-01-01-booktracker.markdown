@@ -16,6 +16,7 @@ category: Ruby on Rails, JQuery, JavaScript, API
 
 
 [GitHub Repo](https://github.com/mandlerm/BookTracker)
+
 Tech Stack: Rails, JQuery, JavaScript
 
 Utilized Ruby on Rails as an API backend, enabling controllers to respond to requests with JSON.
