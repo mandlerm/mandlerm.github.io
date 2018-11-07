@@ -2,7 +2,7 @@
 layout: post
 title:  "PlantPower"
 date:   2017-11-20 15:08:10 -0500
-img: img/portfolio/Plantpower.png
+img: img/portfolio/plantpower.png
 github: https://github.com/mandlerm/plantpower
 walkthrough: https://youtu.be/Ce4MVb1boaU
 caption: An app that enables used to find Plant Based Recipes 

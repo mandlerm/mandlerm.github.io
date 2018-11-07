@@ -2,7 +2,7 @@
 layout: post
 title:  "BookTracker"
 date:   2018-2-20 15:08:10 -0500
-img: img/portfolio/BookTracker.png
+img: img/portfolio/book.png
 github: https://github.com/mandlerm/BookTracker
 walkthrough: https://youtu.be/WSHHORh7a9w
 caption: An app that enables used to find Plant Based Recipes 
